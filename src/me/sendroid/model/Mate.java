@@ -1,4 +1,4 @@
-package me.senderoid.model;
+package me.sendroid.model;
 
 /**
  * 团队成员

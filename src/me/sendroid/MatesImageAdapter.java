@@ -1,6 +1,6 @@
-package me.senderoid;
+package me.sendroid;
 
-import me.senderoid.model.Mate;
+import me.sendroid.model.Mate;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.view.View;

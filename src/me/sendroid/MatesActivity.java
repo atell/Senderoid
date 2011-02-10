@@ -1,4 +1,4 @@
-package me.senderoid;
+package me.sendroid;
 
 import android.app.Activity;
 import android.os.Bundle;
